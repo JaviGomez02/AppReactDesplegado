@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AppReactDesplegado/static/css/main.2d94e911.css",
+    "main.js": "/AppReactDesplegado/static/js/main.91b28e7f.js",
+    "index.html": "/AppReactDesplegado/index.html",
+    "main.2d94e911.css.map": "/AppReactDesplegado/static/css/main.2d94e911.css.map",
+    "main.91b28e7f.js.map": "/AppReactDesplegado/static/js/main.91b28e7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d94e911.css",
+    "static/js/main.91b28e7f.js"
+  ]
+}
